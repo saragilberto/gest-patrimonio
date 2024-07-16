@@ -35,6 +35,9 @@ etiquetas:
 
 O uso dessas práticas de gerenciamento de branches, tags e issues no GitHub ajuda a manter o projeto organizado, facilita a colaboração entre os membros da equipe e promove um desenvolvimento mais eficiente e controlado do software.
 
+![Controle de Versões](img/versoes.png)
+
+
 ## Gerenciamento de Projeto
 
 ### Divisão de Papéis
@@ -52,6 +55,13 @@ O uso dessas práticas de gerenciamento de branches, tags e issues no GitHub aju
 
 ![Backlog do Projeto](img/kanban2.png)
 
+
+
+### Controle contribuição do Time
+
+![Commits](img/commits.png)
+
+
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
@@ -67,6 +77,4 @@ O editor de código foi escolhido porque ele possui uma integração com o siste
 
 Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
  
-> **Ferramentas que auxiliarão no gerenciamento**: 
-> - [MS Teams](https://www.microsoft.com/pt-br/microsoft-teams/free)
-> - [Github](https://github.com/)
+
