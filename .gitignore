@@ -25,3 +25,7 @@ yarn-error.log*
 
 # expo
 .expo
+
+#vitepress
+docs/.vitepress/dist
+docs/.vitepress/cache
