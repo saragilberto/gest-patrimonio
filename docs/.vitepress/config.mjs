@@ -15,7 +15,7 @@ export default defineConfig({
       {
         text: 'Documentação',
         items: [
-          { text: 'Documentação', link: '/01-Documentação de Contexto' },
+          { text: 'Documentação de Contexto', link: '/01-Documentação de Contexto' },
           { text: 'Especificação do projeto', link: '/02-Especificação do Projeto' },
           { text: 'Metodologia', link: '/03-Metodologia'},
           { text: 'Projeto de Interface', link: '/04-Projeto de Interface'},

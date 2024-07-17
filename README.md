@@ -1,27 +1,6 @@
 # Gerenciamento de Patrimônio
 
-`Análise e Desenvolvimento de Sistemas`
 
-`Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
-
-`1 / 2024 - Eixo 3`
-
-O projeto consiste no desenvolvimento de um sistema de controle de bens patrimoniais de uma empresa. Os bens podem ser cadeiras, computadores, mesas e qualquer móvel ou equipamento que agregue valor à empresa e precise ter sua localização controlada.
-
-## Integrantes
-
-* Amanda Gonçalves Gomes
-* Andrey Bibiano Jardim
-* Leonardo dos Santos
-* Leonardo Ferreira dos Santos
-* Sara Cristina Gilberto Pereira
-* Thiago Muniz Severino dos Santos
-* Tiago Henrique Oliveira Souza
-
-
-## Orientador
-
-* Prof. Will Ricardo dos Santos Machado
 
 ## Instruções de utilização
 <ol>
